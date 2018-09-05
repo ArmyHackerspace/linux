@@ -1,0 +1,2 @@
+# linux
+basic_scripts
