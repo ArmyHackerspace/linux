@@ -1,2 +1,0 @@
-# linux
-basic_scripts
